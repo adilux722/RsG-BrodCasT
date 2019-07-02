@@ -12,6 +12,6 @@ client.on("message", message => {
 )};
 
 // THIS MUSTE BE THIS WAY
-kboosh.login(process.env.BOT_TOKEN);
+kboosh.login(NTk1NTg1MzA5ODI4MTg2MTEz.XRtTMw.kUKac52Lzyim85LRO493vHxsqIk);
                    
           
