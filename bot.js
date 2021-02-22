@@ -12,6 +12,6 @@ client.on("message", message => {
 )};
 
 // THIS MUSTE BE THIS WAY
-kboosh.login(ODEzNDUyMDg5NDI2MTgyMTg0.YDPgSw.WSVqybYoBU12zTU1URM34osS9NI);
+kboosh.login(ODEzNDUyMDg5NDI2MTgyMTg0.YDPgSw.UbcWE8pE_Lhk5ZEdsko9SaBv6_E);
                    
           
